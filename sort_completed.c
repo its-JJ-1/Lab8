@@ -3,6 +3,9 @@
 #include <stdio.h>
 #include <string.h>
 
+//Name: Jonathan Guzman
+//Lab Assignment 8
+
 int extraMemoryAllocated;
 
 void *Alloc(size_t sz) 
